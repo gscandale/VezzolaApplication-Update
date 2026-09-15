@@ -1,0 +1,13 @@
+[update]
+newversion=9.9.9.9
+localversion=Project1.exe
+
+[files]
+count=1
+
+[file1]
+url=PER_ORA_LO_LASCIAMO_DA_DEFINIRE
+localversion=prova.txt
+targetdir={APP}
+descr=File di prova GitHub
+mandatory=1
