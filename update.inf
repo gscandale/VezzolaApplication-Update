@@ -2,11 +2,6 @@
 newversion=1.0.0.1
 localversion=Project1.exe
 
-[application]
-appupdate=1
-appname=Project1.exe
-appcomps=Project1.exe_NEW
-
 [files]
 count=1
 
@@ -14,5 +9,9 @@ count=1
 url=https://raw.githubusercontent.com/gscandale/VezzolaApplication-Update/refs/heads/main/Project1.exe
 localversion=Project1.exe_NEW
 targetdir={APP}
-descr=Aggiornamento Project1
 mandatory=1
+
+[application]
+appupdate=1
+appname=Project1.exe
+appcomps=Project1.exe_NEW
