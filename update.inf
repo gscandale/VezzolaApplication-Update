@@ -6,7 +6,7 @@ localversion=Project1.exe
 count=1
 
 [file1]
-url=PER_ORA_LO_LASCIAMO_DA_DEFINIRE
+url=https://raw.githubusercontent.com/gscandale/VezzolaApplication-Update/refs/heads/main/prova.txt
 localversion=prova.txt
 targetdir={APP}
 descr=File di prova GitHub
