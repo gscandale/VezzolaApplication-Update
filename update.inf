@@ -1,18 +1,18 @@
 [update]
-newversion=1.0.0.1
-localversion=Project1.exe
+newversion=1.0.1.55
+localversion=VezzolaApplication.exe
 
 [files]
 count=1
 
 [file1]
-url=https://raw.githubusercontent.com/gscandale/VezzolaApplication-Update/refs/heads/main/Project1.exe_NEW
-newversion=1.0.0.1
-localversion=Project1.exe
+url=https://github.com/gscandale/VezzolaApplication-Update/releases/download/v1.0.1.55/VezzolaApplication.exe_NEW
+newversion=1.0.1.55
+localversion=VezzolaApplication.exe
 mandatory=1
 
 [application]
 appupdate=1
-appname=Project1.exe
-appcomps=Project1.exe_NEW
+appname=VezzolaApplication.exe
+appcomps=VezzolaApplication.exe_NEW
 silentrestart=0
